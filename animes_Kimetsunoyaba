@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B] [B]KIMETSU NO YAIBA - [COLOR yellow](ANO)[/COLOR] - [COLOR orange](hd)[/COLOR] - LEGENDADO[/B]</title>
+<title>[B][COLOR lime]*NEW [/COLOR][/B] [B]KIMETSU NO YAIBA - [COLOR yellow]2019[/COLOR] - [COLOR orange]HD[/COLOR] - LEGENDADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RmxwGakZNS12Ijlr5k2ewRGsCTbqe9Yc/view$$lsname=[COLOR orange]HD[/COLOR] - EPISÓDIO 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZThHA0TqOnbaqbj5eDT_FLMLQjuOTIjb/view$$lsname=[COLOR orange]HD[/COLOR] - EPISÓDIO 2</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MQfiTRw79hRcv8uQbMKigc3LXM3PqYUu/view$$lsname=[COLOR orange]HD[/COLOR] - EPISÓDIO 3</link>
@@ -26,7 +26,7 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pJAnszvcCuSFZKQNTkwsmi_3pFqHmJNx/view$$lsname=[COLOR orange]HD[/COLOR] - EPISÓDIO 24</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CfR_SrNdZ26uPZzeIG3HCElLpxjHLR-v/view$$lsname=[COLOR orange]HD[/COLOR] - EPISÓDIO 25</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GHaFhtz6odXQYE1e3NMIANkHt7IPUcF5/view$$lsname=[COLOR orange]HD[/COLOR] - EPISÓDIO 26</link>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/download/KIMETSU/KIMETSU.png</thumbnail>
 <fanart>https://www.selectgame.com.br/wp-content/uploads/2019/10/Demon-Slayer-Kimetsu-no-Yaiba-Tanjiro-e-Nezuko-Wallpaper-Full-HD-1920x1080-1280x720.jpg</fanart>
 <info></info>
 </item>
