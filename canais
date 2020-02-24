@@ -1,9 +1,9 @@
-<channels>
-<channel>
-<name>DISCOVERY TURBO</name>
-<thumbnail></thumbnail>
-<externallink>http://163.172.147.18:8081/discovery_turbo_hd/2/playlist.m3u8</externallink>
-<fanart></fanart>
+<item>
+<title>[B]DISCOVERY TURBO</title>
+<link>http://163.172.147.18:8081/discovery_turbo_hd/2/playlist.m3u8</link>
+<thumbnail>https://archive.org/download/JUMANDI/JUMANDI.png</thumbnail>
+<fanart>https://ia601409.us.archive.org/8/items/jumanji_20200223/jumanji.jpg</fanart>
 <info></info>
-</channel>
-</channels>
+</item>
+
+
